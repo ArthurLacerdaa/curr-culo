@@ -30,12 +30,12 @@ h2 {
     margin-bottom: 15px;
 }
 
-/* Estilos para as listas */
+
 ul {
-    list-style-type: none; /* Remove os marcadores padrão de lista */
-    padding: 0; /* Remove o padding padrão da lista */
+    list-style-type: none; 
+    padding: 0;
 }
 
 ul li {
-    margin-bottom: 10px; /* Espaçamento abaixo de cada item da lista */
+    margin-bottom: 10px; 
 }
